@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/Velocity cover page.png" alt="Alexander Bryan F. Sanchez Banner" width="100%">
+</p>
+
 # 👋 Hi there! I'm Alexander Bryan F. Sanchez
 
-## 🚀 Tech Consultant | 🧠 Systems Developer | 🎯 Project Manager | 💡 CRM Specialist | 🌍 Nonprofit Advocate
+## 🚀 IT Consultant | 🧠 Systems Developer | 🎯 Project Manager | 💡 CRM Specialist | 🌍 Nonprofit Advocate
 
 I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
 
@@ -10,7 +14,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 ### 💼 What I Do
 
-- 🔧 **Custom CRM Systems:** ClickUp, HubSpot, Zoho, Monday.com, Trello, Asana, Zendesk, and Microsoft Power Apps  
+- 🔧 **Custom CRM Systems:** ClickUp, HubSpot, Zoho, Monday.com, Trello, Asana, Zendesk, Microsoft Power Apps, Relevance.ai and MORE!
 - 📈 **Business Process Automation:** Systems analysis, optimization, and AI integrations  
 - 🌐 **SaaS & Software Development:** Founder of **Velocity Technologies**, crafting intelligent platforms like **Nexus (Inventory System)** 
 - 🌱 **Nonprofit Empowerment:** Project Manager & Systems Developer at **Exposher**, using tech to manage and help empower underserved young girls and promote wellness, education, and exposure  
@@ -45,7 +49,7 @@ An inventory system for BPOs, Healthcare, and Manufacturing. Designed with Micro
 - **Precision Machinist Corporation**  
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps to digitize operations, track financials, and streamline warehouse processes.
 
-- **Exposher**  
+- **Exposher Non-profit Organization**  
 Systems-led wellness, mentorship, and career-readiness events impacting 200+ underserved youth annually.
 
 - **PAGLAUM Realty Development**  
@@ -55,7 +59,9 @@ Implemented a fully integrated CRM and accounting system using ClickUp and Quick
   Designed and implemented a custom ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
 
 - **JRNY** (🔜 AWS Marketplace)  
-A visitor and campus management platform designed for large institutions. Supports automation, service tracking, and real-time data capture.  
+A visitor and campus management platform designed for large institutions. Supports automation, service tracking, and real-time data capture. Used Hubspot for Marketing and Client Engagements. 
+
+# **and more!** 
 
 ---
 
@@ -84,19 +90,29 @@ A visitor and campus management platform designed for large institutions. Suppor
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-sanchez-246044195/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="48" height="48" />
   </a>
   <a href="mailto:alex@velocity-technologies.org">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Alex@velocity--technologies.org-blue?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="48" height="48" />
+  </a>
+  <a href="https://www.facebook.com/alexander.kim.7921/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-circled.png" alt="Facebook Personal" width="48" height="48" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61566856742819" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook Business" width="48" height="48" />
   </a>
 </p>
 
----
 
-> “I don’t just build systems—I build bridges between people, purpose, and technology.”
 
 ---
 
-<!--
-⚠️ This profile README is a work in progress. Feel free to check back for new projects, updates, and contributions!
--->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/I_don’t_just_build_systems,_I_build_bridges_between_people,_purpose,_and_technology-blue?style=for-the-badge&logo=github&logoColor=white&label=" alt="Tagline">
+</h1>
+
+
+
+---
+
+
