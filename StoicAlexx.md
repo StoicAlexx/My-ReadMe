@@ -2,9 +2,9 @@
   <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/Velocity cover page.png" alt="Alexander Bryan F. Sanchez Banner" width="100%">
 </p>
 
-# 👋 Hi there! I'm Alexander Bryan F. Sanchez
+# 👋 Hi there! I'm Alex
 
-## 🚀 IT Consultant | 🧠 Systems Developer | 🎯 Project Manager | 💡 CRM Specialist | 🌍 Nonprofit Advocate
+## IT Consultant | Systems Developer | Project Manager | CRM Specialist | Nonprofit Advocate
 
 I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
 
@@ -24,14 +24,43 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 ### 🛠 Tech Stack & Tools
 
-**Languages & Platforms:**  
-`JavaScript` | `Python` | `Power Platform` | `HTML/CSS` | `WordPress` | `Wix`  
+<h3>🧠 Languages & Platforms:</h3>
 
-**CRM & Business Systems:**  
-`ClickUp CRM (Verified Power User)` | `HubSpot` | `Zoho` | `Monday.com` | `Asana` | `Trello` | `Zendesk` | `Odoo`| `Relevance.ai` and more!
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Platform-742774?logo=microsoft&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Wix-000000?logo=wix&logoColor=white&style=flat-square" />
+</p>
 
-**Cloud & Dev Tools:**  
-`Microsoft Power Apps` | `AWS Marketplace` | `Zapier` | `Laravel` | `Figma` | `Elementor` | `WPBakery`  
+<h3>💼 CRM & Business Systems:</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ClickUp_CRM-Purple?logo=clickup&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Zoho-FF4F1F?logo=zoho&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Monday.com-5555FF?logo=monday&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Odoo-875A7B?logo=odoo&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Relevance.ai-5A3FEC?style=flat-square&logoColor=white" />
+</p>
+
+<h3>☁️ Cloud & Dev Tools:</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Power_Apps-742774?logo=microsoft&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_Marketplace-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/WPBakery-0693E3?style=flat-square&logoColor=white" />
+</p>
+
 
 **Other Skills:**  
 🎥 Video Editing (Adobe, Canva, Odio.ai)  
