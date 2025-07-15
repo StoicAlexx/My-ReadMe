@@ -1,10 +1,10 @@
-![Work in Progress](https://img.shields.io/badge/Profile-Work_in_Progress-yellow?style=for-the-badge)
-
 # 👋 Hi there! I'm Alexander Bryan F. Sanchez
 
 ## 🚀 Tech Consultant | 🧠 Systems Developer | 🎯 Project Manager | 💡 CRM Specialist | 🌍 Nonprofit Advocate
 
 I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
+
+<img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/psyduck.png" align="right" width="200" alt="Psyduck">
 
 ---
 
