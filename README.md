@@ -38,7 +38,11 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
   <img src="https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Odoo-875A7B?logo=odoo&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Relevance.ai-5A3FEC?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/...and_more!-gray?style=flat-square&logoColor=white" />
 </p>
+
+
 
 <h3>☁️ Cloud & Dev Tools:</h3>
 
