@@ -126,21 +126,30 @@ A visitor and campus management platform designed for large institutions. Suppor
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-sanchez-246044195/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" width="48" height="48" />
   </a>
+
   <a href="mailto:alex@velocity-technologies.org" title="Email Me">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" />
   </a>
+
   <a href="https://www.facebook.com/alexander.kim.7921/" target="_blank" title="Facebook (Personal)">
-    <img src="https://img.icons8.com/color/48/000000/facebook-circled.png" alt="Facebook Personal" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/facebook-circled.png" alt="Facebook Personal" width="48" height="48" />
   </a>
+
   <a href="https://www.facebook.com/profile.php?id=61566856742819" target="_blank" title="Facebook Business Page">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook Business" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook Business" width="48" height="48" />
   </a>
+
   <a href="https://open.spotify.com/user/31cjxprbxau6m6zksq5sdk3ma6yy?si=087a9ff9aaa44b9b" target="_blank" title="My Spotify">
-    <img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="Spotify" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/spotify--v1.png" alt="Spotify" width="48" height="48" />
+  </a>
+
+  <a href="https://stackoverflowteams.com/c/velocity-technologies/" target="_blank" title="Stack Overflow Team for Velocity Technologies">
+    <img src="https://img.icons8.com/color/48/stackoverflow.png" alt="Stack Overflow" width="48" height="48" />
   </a>
 </p>
+
 
 
 
