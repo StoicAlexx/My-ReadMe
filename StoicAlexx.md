@@ -2,23 +2,14 @@
   <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/Velocity cover page.png" alt="Alexander Bryan F. Sanchez Banner" width="100%">
 </p>
 
-# 👋 Hi there! I'm Alex
+# 👋 Greetings! I'm Alex
 
-## IT Consultant | Systems Developer | Project Manager | CRM Specialist | Nonprofit Advocate
+## IT Consultant | Nonprofit Advocate | Digital Transformation
+
 
 I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
 
 <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/psyduck.png" align="right" width="200" alt="Psyduck">
-
----
-
-### 💼 What I Do
-
-- 🔧 **Custom CRM Systems:** ClickUp, HubSpot, Zoho, Monday.com, Trello, Asana, Zendesk, Microsoft Power Apps, Relevance.ai and MORE!
-- 📈 **Business Process Automation:** Systems analysis, optimization, and AI integrations  
-- 🌐 **SaaS & Software Development:** Founder of **Velocity Technologies**, crafting intelligent platforms like **Nexus (Inventory System)** 
-- 🌱 **Nonprofit Empowerment:** Project Manager & Systems Developer at **Exposher**, using tech to manage and help empower underserved young girls and promote wellness, education, and exposure  
-- 🤝 **Strategic Partnerships:** Connecting global solutions to local problems via data-driven collaboration  
 
 ---
 
@@ -70,6 +61,16 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 ---
 
+### 💼 What I Do
+
+- 🔧 **Custom CRM Systems:** ClickUp, HubSpot, Zoho, Monday.com, Trello, Asana, Zendesk, Microsoft Power Apps, Relevance.ai and MORE!
+- 📈 **Business Process Automation:** Systems analysis, optimization, and AI integrations  
+- 🌐 **SaaS & Software Development:** Founder of **Velocity Technologies**, crafting intelligent platforms like **Nexus (Inventory System)** 
+- 🌱 **Nonprofit Empowerment:** Project Manager & Systems Developer at **Exposher**, using tech to manage and help empower underserved young girls and promote wellness, education, and exposure  
+- 🤝 **Strategic Partnerships:** Connecting global solutions to local problems via data-driven collaboration  
+
+---
+
 ### 🌟 Featured Projects
 
 - **Nexus**  
@@ -96,12 +97,14 @@ A visitor and campus management platform designed for large institutions. Suppor
 
 ### 📊 GitHub Stats & Activity
 
+#### 🧠 Stats Overview
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicAlexx&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=StoicAlexx&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicAlexx&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StoicAlexx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+#### 💬 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoicAlexx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -118,19 +121,23 @@ A visitor and campus management platform designed for large institutions. Suppor
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alex-sanchez-246044195/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-sanchez-246044195/" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="48" height="48" />
   </a>
-  <a href="mailto:alex@velocity-technologies.org">
+  <a href="mailto:alex@velocity-technologies.org" title="Email Me">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="48" height="48" />
   </a>
-  <a href="https://www.facebook.com/alexander.kim.7921/" target="_blank">
+  <a href="https://www.facebook.com/alexander.kim.7921/" target="_blank" title="Facebook (Personal)">
     <img src="https://img.icons8.com/color/48/000000/facebook-circled.png" alt="Facebook Personal" width="48" height="48" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61566856742819" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61566856742819" target="_blank" title="Facebook Business Page">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook Business" width="48" height="48" />
   </a>
+  <a href="https://open.spotify.com/user/31cjxprbxau6m6zksq5sdk3ma6yy?si=087a9ff9aaa44b9b" target="_blank" title="My Spotify">
+    <img src="https://img.icons8.com/color/48/000000/spotify--v1.png" alt="Spotify" width="48" height="48" />
+  </a>
 </p>
+
 
 
 
