@@ -24,7 +24,10 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
   <img src="https://img.shields.io/badge/HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Wix-000000?logo=wix&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
 </p>
+
 
 <h3>💼 CRM & Business Systems:</h3>
 
