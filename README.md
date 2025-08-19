@@ -87,7 +87,7 @@ An inventory system for BPOs, Healthcare, and Manufacturing. Designed with Micro
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps to digitize operations, track financials, and streamline warehouse processes.
 
 - **Exposher Non-profit Organization**  
-Systems-led wellness, mentorship, and career-readiness events impacting 200+ underserved youth annually.
+Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
 
 - **PAGLAUM Realty Development**  
 Implemented a fully integrated CRM and accounting system using ClickUp and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
