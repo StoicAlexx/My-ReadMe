@@ -55,8 +55,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
   <img src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/WPBakery-0693E3?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/...and_more!-gray?style=flat-square&logoColor=white" />
 </p>
 
 
@@ -84,7 +83,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 An inventory system for BPOs, Healthcare, and Manufacturing. Designed with Microsoft Power Apps, Laravel and built around efficiency and clarity.
 
 - **Precision Machinist Corporation**  
-Developed a custom Accounting and Inventory Management System using Microsoft Power Apps to digitize operations, track financials, and streamline warehouse processes.
+Developed a custom Accounting and Inventory Management System using Microsoft Power Apps & Laravel to digitize operations, track financials, and streamline warehouse processes.
 
 - **Exposher Non-profit Organization**  
 Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
@@ -95,8 +94,8 @@ Implemented a fully integrated CRM and accounting system using ClickUp and Quick
 - **UWU Media**  
   Designed and implemented a custom ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
 
-- **JRNY** (🔜 AWS Marketplace)  
-A visitor and campus management platform designed for large institutions. Supports automation, service tracking, and real-time data capture. Used Hubspot for Marketing and Client Engagements. 
+- **JRNY** Visitor Management System  
+A visitor and campus management platform designed for large institutions. Supports automation, service tracking, and real-time data capture. 
 
 # **and more!** 
 
