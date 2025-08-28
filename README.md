@@ -50,12 +50,14 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 <h3>☁️ Cloud & Dev Tools:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Power_Apps-742774?logo=microsoft&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS_Marketplace-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/...and_more!-gray?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Power_Apps-742774?logo=microsoft&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/...and_more!-gray?style=flat-square&logoColor=white" />
+
 </p>
 
 
